@@ -1,0 +1,3 @@
+C:/Users/pc/CLionProjects/Asm2Hack/cmake-build-debug/CMakeFiles/HackAssembler.dir
+C:/Users/pc/CLionProjects/Asm2Hack/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/pc/CLionProjects/Asm2Hack/cmake-build-debug/CMakeFiles/rebuild_cache.dir
